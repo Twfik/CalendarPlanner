@@ -206,7 +206,9 @@ class ScheduleOptionTableViewController: UITableViewController {
             let timeFormatter = DateFormatter()
             timeFormatter.dateFormat = "HH:mm"
             let timeString = timeFormatter.string(from: editSchedule!.scheduleTime as Date)
+            timeSchedule = editSchedule!.scheduleTime
             timeLabel.text = timeString
+            
             
             nameLabel.text = editSchedule?.scheduleName
             typeLabel.text = editSchedule?.scheduleType
