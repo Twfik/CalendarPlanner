@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="CalendarPlanner/Base.lproj/Main.storyboard" source-language="en" target-language="en-GB" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="0oi-d9-p20.normalTitle" xml:space="preserve">
+        <source>Открыть календарь</source>
+        <target>Open calendar</target>
+        <note>Class = "UIButton"; normalTitle = "Открыть календарь"; ObjectID = "0oi-d9-p20";</note>
+      </trans-unit>
+      <trans-unit id="1hD-1D-Pb0.title" xml:space="preserve">
+        <source>Настройки</source>
+        <target>Settings</target>
+        <note>Class = "UITabBarItem"; title = "Настройки"; ObjectID = "1hD-1D-Pb0";</note>
+      </trans-unit>
+      <trans-unit id="1yp-dm-afk.text" xml:space="preserve">
+        <source>Аудитория</source>
+        <target>Classroom</target>
+        <note>Class = "UILabel"; text = "Аудитория"; ObjectID = "1yp-dm-afk";</note>
+      </trans-unit>
+      <trans-unit id="3Ju-sD-D7p.text" xml:space="preserve">
+        <source>Математика</source>
+        <target>Математика</target>
+        <note>Class = "UILabel"; text = "Математика"; ObjectID = "3Ju-sD-D7p";</note>
+      </trans-unit>
+      <trans-unit id="3Un-dE-mre.headerTitle" xml:space="preserve">
+        <source>Название:</source>
+        <target>Name:</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Название:"; ObjectID = "3Un-dE-mre";</note>
+      </trans-unit>
+      <trans-unit id="4IY-d7-zeN.normalTitle" xml:space="preserve">
+        <source>Открыть календарь</source>
+        <target>Open calendar</target>
+        <note>Class = "UIButton"; normalTitle = "Открыть календарь"; ObjectID = "4IY-d7-zeN";</note>
+      </trans-unit>
+      <trans-unit id="4Py-vr-Qdy.title" xml:space="preserve">
+        <source>Добавить контакт</source>
+        <target>Add contact</target>
+        <note>Class = "UINavigationItem"; title = "Добавить контакт"; ObjectID = "4Py-vr-Qdy";</note>
+      </trans-unit>
+      <trans-unit id="6eB-Df-Kr2.title" xml:space="preserve">
+        <source>Сохранить</source>
+        <target>Save</target>
+        <note>Class = "UIBarButtonItem"; title = "Сохранить"; ObjectID = "6eB-Df-Kr2";</note>
+      </trans-unit>
+      <trans-unit id="6eK-ye-ZUG.text" xml:space="preserve">
+        <source>Название</source>
+        <target>Name</target>
+        <note>Class = "UILabel"; text = "Название"; ObjectID = "6eK-ye-ZUG";</note>
+      </trans-unit>
+      <trans-unit id="9TH-UA-rce.text" xml:space="preserve">
+        <source>ФИО</source>
+        <target>Name</target>
+        <note>Class = "UILabel"; text = "ФИО"; ObjectID = "9TH-UA-rce";</note>
+      </trans-unit>
+      <trans-unit id="9gY-4N-nLz.headerTitle" xml:space="preserve">
+        <source>Период</source>
+        <target>Period</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Период"; ObjectID = "9gY-4N-nLz";</note>
+      </trans-unit>
+      <trans-unit id="74g-cF-fhp.title" xml:space="preserve">
+        <source>CalendarPlanner</source>
+        <target>CalendarPlanner</target>
+        <note>Class = "UINavigationItem"; title = "CalendarPlanner"; ObjectID = "74g-cF-fhp";</note>
+      </trans-unit>
+      <trans-unit id="91x-fB-X4F.text" xml:space="preserve">
+        <source>Тип контакта</source>
+        <target>Type contact</target>
+        <note>Class = "UILabel"; text = "Тип контакта"; ObjectID = "91x-fB-X4F";</note>
+      </trans-unit>
+      <trans-unit id="AWm-Qg-sa4.title" xml:space="preserve">
+        <source>Преподаватель</source>
+        <target>Teacher</target>
+        <note>Class = "UINavigationItem"; title = "Преподаватель"; ObjectID = "AWm-Qg-sa4";</note>
+      </trans-unit>
+      <trans-unit id="CCe-Yl-UC8.headerTitle" xml:space="preserve">
+        <source>Зеленый</source>
+        <target>Green</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Зеленый"; ObjectID = "CCe-Yl-UC8";</note>
+      </trans-unit>
+      <trans-unit id="Cwf-16-eQT.headerTitle" xml:space="preserve">
+        <source>Выбрать изображение:</source>
+        <target>Choose image:</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Выбрать изображение:"; ObjectID = "Cwf-16-eQT";</note>
+      </trans-unit>
+      <trans-unit id="DWr-fw-Mby.headerTitle" xml:space="preserve">
+        <source>Фиолетовый</source>
+        <target>Violet</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Фиолетовый"; ObjectID = "DWr-fw-Mby";</note>
+      </trans-unit>
+      <trans-unit id="ES7-nH-owV.title" xml:space="preserve">
+        <source>Расписание</source>
+        <target>Timetable</target>
+        <note>Class = "UITabBarItem"; title = "Расписание"; ObjectID = "ES7-nH-owV";</note>
+      </trans-unit>
+      <trans-unit id="Eoo-h0-aq1.title" xml:space="preserve">
+        <source>Сохранить</source>
+        <target>Save</target>
+        <note>Class = "UIBarButtonItem"; title = "Сохранить"; ObjectID = "Eoo-h0-aq1";</note>
+      </trans-unit>
+      <trans-unit id="Gaa-bu-UEP.text" xml:space="preserve">
+        <source>Дата</source>
+        <target>Date</target>
+        <note>Class = "UILabel"; text = "Дата"; ObjectID = "Gaa-bu-UEP";</note>
+      </trans-unit>
+      <trans-unit id="I5y-XC-xVR.text" xml:space="preserve">
+        <source>Homework</source>
+        <target>Homework</target>
+        <note>Class = "UILabel"; text = "Homework"; ObjectID = "I5y-XC-xVR";</note>
+      </trans-unit>
+      <trans-unit id="IPe-rL-l7p.headerTitle" xml:space="preserve">
+        <source>Красный</source>
+        <target>Red</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Красный"; ObjectID = "IPe-rL-l7p";</note>
+      </trans-unit>
+      <trans-unit id="Lb1-Z9-wh3.text" xml:space="preserve">
+        <source>8-911-111-11-11</source>
+        <target>8-911-111-11-11</target>
+        <note>Class = "UILabel"; text = "8-911-111-11-11"; ObjectID = "Lb1-Z9-wh3";</note>
+      </trans-unit>
+      <trans-unit id="MqS-4g-6pp.headerTitle" xml:space="preserve">
+        <source>Имя</source>
+        <target>Name</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Имя"; ObjectID = "MqS-4g-6pp";</note>
+      </trans-unit>
+      <trans-unit id="Nlo-Ay-8xh.headerTitle" xml:space="preserve">
+        <source>Дата и время</source>
+        <target>Date and Time</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Дата и время"; ObjectID = "Nlo-Ay-8xh";</note>
+      </trans-unit>
+      <trans-unit id="OnJ-fZ-HYf.headerTitle" xml:space="preserve">
+        <source>Оранжевый</source>
+        <target>Orange</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Оранжевый"; ObjectID = "OnJ-fZ-HYf";</note>
+      </trans-unit>
+      <trans-unit id="PB5-l3-aqX.headerTitle" xml:space="preserve">
+        <source>Белый</source>
+        <target>White</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Белый"; ObjectID = "PB5-l3-aqX";</note>
+      </trans-unit>
+      <trans-unit id="PVY-eI-qze.title" xml:space="preserve">
+        <source>Задания</source>
+        <target>Tasks</target>
+        <note>Class = "UITabBarItem"; title = "Задания"; ObjectID = "PVY-eI-qze";</note>
+      </trans-unit>
+      <trans-unit id="Pss-sv-nxi.headerTitle" xml:space="preserve">
+        <source>Телефон</source>
+        <target>Phone</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Телефон"; ObjectID = "Pss-sv-nxi";</note>
+      </trans-unit>
+      <trans-unit id="Q7W-no-dcH.title" xml:space="preserve">
+        <source>Контакты</source>
+        <target>Contacts</target>
+        <note>Class = "UINavigationItem"; title = "Контакты"; ObjectID = "Q7W-no-dcH";</note>
+      </trans-unit>
+      <trans-unit id="RGG-Gm-gBn.text" xml:space="preserve">
+        <source>8-911-111-11-11</source>
+        <target>8-911-111-11-11</target>
+        <note>Class = "UILabel"; text = "8-911-111-11-11"; ObjectID = "RGG-Gm-gBn";</note>
+      </trans-unit>
+      <trans-unit id="SgF-zN-TRm.text" xml:space="preserve">
+        <source>Тип</source>
+        <target>Type</target>
+        <note>Class = "UILabel"; text = "Тип"; ObjectID = "SgF-zN-TRm";</note>
+      </trans-unit>
+      <trans-unit id="Syd-by-KZG.headerTitle" xml:space="preserve">
+        <source>Желтый</source>
+        <target>Yellow</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Желтый"; ObjectID = "Syd-by-KZG";</note>
+      </trans-unit>
+      <trans-unit id="UKi-1i-hYV.title" xml:space="preserve">
+        <source>Задания</source>
+        <target>Tasks</target>
+        <note>Class = "UINavigationItem"; title = "Задания"; ObjectID = "UKi-1i-hYV";</note>
+      </trans-unit>
+      <trans-unit id="Uvf-ym-mxi.headerTitle" xml:space="preserve">
+        <source>Преподаватель</source>
+        <target>Teacher</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Преподаватель"; ObjectID = "Uvf-ym-mxi";</note>
+      </trans-unit>
+      <trans-unit id="Vh5-cG-Xes.text" xml:space="preserve">
+        <source>4</source>
+        <target>4</target>
+        <note>Class = "UILabel"; text = "4"; ObjectID = "Vh5-cG-Xes";</note>
+      </trans-unit>
+      <trans-unit id="Xfv-ea-z6b.text" xml:space="preserve">
+        <source>Лекция</source>
+        <target>Лекция</target>
+        <note>Class = "UILabel"; text = "Лекция"; ObjectID = "Xfv-ea-z6b";</note>
+      </trans-unit>
+      <trans-unit id="Xs9-8V-IcP.headerTitle" xml:space="preserve">
+        <source>Голубой</source>
+        <target>Blue</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Голубой"; ObjectID = "Xs9-8V-IcP";</note>
+      </trans-unit>
+      <trans-unit id="Xv1-kP-9Nh.text" xml:space="preserve">
+        <source>Время</source>
+        <target>Time</target>
+        <note>Class = "UILabel"; text = "Время"; ObjectID = "Xv1-kP-9Nh";</note>
+      </trans-unit>
+      <trans-unit id="ZKK-BC-LEd.text" xml:space="preserve">
+        <source>Аудитория:</source>
+        <target>Classroom:</target>
+        <note>Class = "UILabel"; text = "Аудитория:"; ObjectID = "ZKK-BC-LEd";</note>
+      </trans-unit>
+      <trans-unit id="ar2-0V-ksS.headerTitle" xml:space="preserve">
+        <source>Цвет</source>
+        <target>Color</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Цвет"; ObjectID = "ar2-0V-ksS";</note>
+      </trans-unit>
+      <trans-unit id="bDO-O0-nmn.text" xml:space="preserve">
+        <source>email@email.com</source>
+        <target>email@email.com</target>
+        <note>Class = "UILabel"; text = "email@email.com"; ObjectID = "bDO-O0-nmn";</note>
+      </trans-unit>
+      <trans-unit id="bMs-Pu-FMM.headerTitle" xml:space="preserve">
+        <source>Дата:</source>
+        <target>Date:</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Дата:"; ObjectID = "bMs-Pu-FMM";</note>
+      </trans-unit>
+      <trans-unit id="bvy-uW-hBj.text" xml:space="preserve">
+        <source>Tasks</source>
+        <target>Tasks</target>
+        <note>Class = "UILabel"; text = "Tasks"; ObjectID = "bvy-uW-hBj";</note>
+      </trans-unit>
+      <trans-unit id="dk5-53-Q8l.headerTitle" xml:space="preserve">
+        <source>Голубой</source>
+        <target>Blue</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Голубой"; ObjectID = "dk5-53-Q8l";</note>
+      </trans-unit>
+      <trans-unit id="eSf-f1-BQQ.headerTitle" xml:space="preserve">
+        <source>Красный</source>
+        <target>Red</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Красный"; ObjectID = "eSf-f1-BQQ";</note>
+      </trans-unit>
+      <trans-unit id="f3R-mN-UVj.text" xml:space="preserve">
+        <source>Горбачев Сергей Викторович</source>
+        <target>Горбачев Сергей Викторович</target>
+        <note>Class = "UILabel"; text = "Горбачев Сергей Викторович"; ObjectID = "f3R-mN-UVj";</note>
+      </trans-unit>
+      <trans-unit id="fNO-dw-csP.headerTitle" xml:space="preserve">
+        <source>Белый</source>
+        <target>White</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Белый"; ObjectID = "fNO-dw-csP";</note>
+      </trans-unit>
+      <trans-unit id="fsH-01-hBi.headerTitle" xml:space="preserve">
+        <source>Желтый</source>
+        <target>Yellow</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Желтый"; ObjectID = "fsH-01-hBi";</note>
+      </trans-unit>
+      <trans-unit id="g1a-fB-6UJ.headerTitle" xml:space="preserve">
+        <source>Цвет:</source>
+        <target>Color:</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Цвет:"; ObjectID = "g1a-fB-6UJ";</note>
+      </trans-unit>
+      <trans-unit id="gZW-Zd-jGo.text" xml:space="preserve">
+        <source>Почта</source>
+        <target>Mail</target>
+        <note>Class = "UILabel"; text = "Почта"; ObjectID = "gZW-Zd-jGo";</note>
+      </trans-unit>
+      <trans-unit id="ghF-Ks-aTN.text" xml:space="preserve">
+        <source>Дата</source>
+        <target>Date</target>
+        <note>Class = "UILabel"; text = "Дата"; ObjectID = "ghF-Ks-aTN";</note>
+      </trans-unit>
+      <trans-unit id="hGI-h9-9ha.headerTitle" xml:space="preserve">
+        <source>Оранжевый</source>
+        <target>Orange</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Оранжевый"; ObjectID = "hGI-h9-9ha";</note>
+      </trans-unit>
+      <trans-unit id="iSD-Kp-oEh.headerTitle" xml:space="preserve">
+        <source>Синий</source>
+        <target>Deep blue</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Синий"; ObjectID = "iSD-Kp-oEh";</note>
+      </trans-unit>
+      <trans-unit id="ioB-Dt-x5s.text" xml:space="preserve">
+        <source>Название</source>
+        <target>Name</target>
+        <note>Class = "UILabel"; text = "Название"; ObjectID = "ioB-Dt-x5s";</note>
+      </trans-unit>
+      <trans-unit id="jhU-Uv-MVo.text" xml:space="preserve">
+        <source>Телефон</source>
+        <target>Phone</target>
+        <note>Class = "UILabel"; text = "Телефон"; ObjectID = "jhU-Uv-MVo";</note>
+      </trans-unit>
+      <trans-unit id="ju6-Tm-055.text" xml:space="preserve">
+        <source>4-302</source>
+        <target>4-302</target>
+        <note>Class = "UILabel"; text = "4-302"; ObjectID = "ju6-Tm-055";</note>
+      </trans-unit>
+      <trans-unit id="lVb-yt-nSt.text" xml:space="preserve">
+        <source>Имя</source>
+        <target>Name</target>
+        <note>Class = "UILabel"; text = "Имя"; ObjectID = "lVb-yt-nSt";</note>
+      </trans-unit>
+      <trans-unit id="mMC-bc-eB4.headerTitle" xml:space="preserve">
+        <source>Почта</source>
+        <target>Mail</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Почта"; ObjectID = "mMC-bc-eB4";</note>
+      </trans-unit>
+      <trans-unit id="nLo-zi-NnE.text" xml:space="preserve">
+        <source>Задание</source>
+        <target>Task</target>
+        <note>Class = "UILabel"; text = "Задание"; ObjectID = "nLo-zi-NnE";</note>
+      </trans-unit>
+      <trans-unit id="oB8-sx-hlw.headerTitle" xml:space="preserve">
+        <source>Фиолетовый</source>
+        <target>Violet</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Фиолетовый"; ObjectID = "oB8-sx-hlw";</note>
+      </trans-unit>
+      <trans-unit id="op7-bG-H2U.text" xml:space="preserve">
+        <source>email@email.com</source>
+        <target>email@email.com</target>
+        <note>Class = "UILabel"; text = "email@email.com"; ObjectID = "op7-bG-H2U";</note>
+      </trans-unit>
+      <trans-unit id="p1U-Gn-k1o.headerTitle" xml:space="preserve">
+        <source>Задание:</source>
+        <target>Task:</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Задание:"; ObjectID = "p1U-Gn-k1o";</note>
+      </trans-unit>
+      <trans-unit id="pI4-qN-t2h.text" xml:space="preserve">
+        <source>Корпус:</source>
+        <target>Building:</target>
+        <note>Class = "UILabel"; text = "Корпус:"; ObjectID = "pI4-qN-t2h";</note>
+      </trans-unit>
+      <trans-unit id="pWb-tF-0HE.text" xml:space="preserve">
+        <source>Петров Петр Петрович</source>
+        <target>Петров Петр Петрович</target>
+        <note>Class = "UILabel"; text = "Петров Петр Петрович"; ObjectID = "pWb-tF-0HE";</note>
+      </trans-unit>
+      <trans-unit id="pbs-YU-hJj.text" xml:space="preserve">
+        <source>Петров Петр Петрович</source>
+        <target>Петров Петр Петрович</target>
+        <note>Class = "UILabel"; text = "Петров Петр Петрович"; ObjectID = "pbs-YU-hJj";</note>
+      </trans-unit>
+      <trans-unit id="pnH-62-8zS.text" xml:space="preserve">
+        <source>8:30</source>
+        <target>8:30</target>
+        <note>Class = "UILabel"; text = "8:30"; ObjectID = "pnH-62-8zS";</note>
+      </trans-unit>
+      <trans-unit id="qba-Hy-upJ.title" xml:space="preserve">
+        <source>Сохранить</source>
+        <target>Save</target>
+        <note>Class = "UIBarButtonItem"; title = "Сохранить"; ObjectID = "qba-Hy-upJ";</note>
+      </trans-unit>
+      <trans-unit id="qt1-xk-UcB.headerTitle" xml:space="preserve">
+        <source>Зеленый</source>
+        <target>Green</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Зеленый"; ObjectID = "qt1-xk-UcB";</note>
+      </trans-unit>
+      <trans-unit id="roM-nV-9KD.title" xml:space="preserve">
+        <source>Новый предмет</source>
+        <target>New lesson</target>
+        <note>Class = "UINavigationItem"; title = "Новый предмет"; ObjectID = "roM-nV-9KD";</note>
+      </trans-unit>
+      <trans-unit id="tYr-av-9d7.text" xml:space="preserve">
+        <source>Повторять каждые 7 дней</source>
+        <target>Repeat every 7 days</target>
+        <note>Class = "UILabel"; text = "Повторять каждые 7 дней"; ObjectID = "tYr-av-9d7";</note>
+      </trans-unit>
+      <trans-unit id="tfs-PV-JZA.title" xml:space="preserve">
+        <source>Контакты</source>
+        <target>Contacts</target>
+        <note>Class = "UITabBarItem"; title = "Контакты"; ObjectID = "tfs-PV-JZA";</note>
+      </trans-unit>
+      <trans-unit id="wR3-5p-cpy.text" xml:space="preserve">
+        <source>Корпус</source>
+        <target>Building</target>
+        <note>Class = "UILabel"; text = "Корпус"; ObjectID = "wR3-5p-cpy";</note>
+      </trans-unit>
+      <trans-unit id="xUu-YU-Dfn.segmentTitles[0]" xml:space="preserve">
+        <source>Друзья</source>
+        <target>Friends</target>
+        <note>Class = "UISegmentedControl"; xUu-YU-Dfn.segmentTitles[0] = "Друзья"; ObjectID = "xUu-YU-Dfn";</note>
+      </trans-unit>
+      <trans-unit id="xUu-YU-Dfn.segmentTitles[1]" xml:space="preserve">
+        <source>Преподаватели</source>
+        <target>Teachers</target>
+        <note>Class = "UISegmentedControl"; xUu-YU-Dfn.segmentTitles[1] = "Преподаватели"; ObjectID = "xUu-YU-Dfn";</note>
+      </trans-unit>
+      <trans-unit id="y6d-eL-Ak2.title" xml:space="preserve">
+        <source>Новое задание</source>
+        <target>New task</target>
+        <note>Class = "UINavigationItem"; title = "Новое задание"; ObjectID = "y6d-eL-Ak2";</note>
+      </trans-unit>
+      <trans-unit id="yOP-31-avU.headerTitle" xml:space="preserve">
+        <source>Тип</source>
+        <target>Type</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Тип"; ObjectID = "yOP-31-avU";</note>
+      </trans-unit>
+      <trans-unit id="yk2-el-pNT.text" xml:space="preserve">
+        <source>Тип:</source>
+        <target>Type:</target>
+        <note>Class = "UILabel"; text = "Тип:"; ObjectID = "yk2-el-pNT";</note>
+      </trans-unit>
+      <trans-unit id="zZQ-Ex-J9s.headerTitle" xml:space="preserve">
+        <source>Предмет</source>
+        <target>Lesson</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Предмет"; ObjectID = "zZQ-Ex-J9s";</note>
+      </trans-unit>
+      <trans-unit id="zur-7S-TnW.headerTitle" xml:space="preserve">
+        <source>Синий</source>
+        <target>Deep blue</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Синий"; ObjectID = "zur-7S-TnW";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="CalendarPlanner/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="en-GB">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>CalendarPlanner</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
+        <source>$(PRODUCT_NAME) photo use</source>
+        <note>Privacy - Camera Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="CalendarPlanner/en.lproj/Localizable.strings" source-language="en" target-language="en-GB" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Аудитория" xml:space="preserve">
+        <source>Аудитория</source>
+        <target>Classroom</target>
+        <note>audience alert
+   Save schedule audience</note>
+      </trans-unit>
+      <trans-unit id="Введите задание" xml:space="preserve">
+        <source>Введите задание</source>
+        <target>Enter task</target>
+        <note>task alert</note>
+      </trans-unit>
+      <trans-unit id="Введите имя" xml:space="preserve">
+        <source>Введите имя</source>
+        <target>Enter name</target>
+        <note>name alert</note>
+      </trans-unit>
+      <trans-unit id="Введите имя и тип" xml:space="preserve">
+        <source>Введите имя и тип</source>
+	<target>Enter name and type</target>
+        <note>Changes saved</note>
+      </trans-unit>
+      <trans-unit id="Введите название" xml:space="preserve">
+        <source>Введите название</source>
+        <target>Enter name</target>
+        <note>Changes saved
+   name alert</note>
+      </trans-unit>
+      <trans-unit id="Введите название предмета" xml:space="preserve">
+        <source>Введите название предмета</source>
+        <target>Enter name</target>
+        <note>name alert</note>
+      </trans-unit>
+      <trans-unit id="Введите номер аудитории" xml:space="preserve">
+        <source>Введите номер аудитории</source>
+        <target>Enter classroom number</target>
+        <note>audience alert</note>
+      </trans-unit>
+      <trans-unit id="Введите номер корпуса" xml:space="preserve">
+        <source>Введите номер корпуса</source>
+        <target>Enter bulding number</target>
+        <note>building alert</note>
+      </trans-unit>
+      <trans-unit id="Введите почту" xml:space="preserve">
+        <source>Введите почту</source>
+        <target>Enter mail</target>
+        <note>mail alert</note>
+      </trans-unit>
+      <trans-unit id="Введите телефон" xml:space="preserve">
+        <source>Введите телефон</source>
+        <target>Enter phone</target>
+        <note>phone alert</note>
+      </trans-unit>
+      <trans-unit id="Введите тип предмета" xml:space="preserve">
+        <source>Введите тип предмета</source>
+        <target>Enter type</target>
+        <note>type alert</note>
+      </trans-unit>
+      <trans-unit id="Время" xml:space="preserve">
+        <source>Время</source>
+        <target>Time</target>
+        <note>Save schedule name</note>
+      </trans-unit>
+      <trans-unit id="Выбрать" xml:space="preserve">
+        <source>Выбрать</source>
+        <target>Choose</target>
+        <note>choose alert</note>
+      </trans-unit>
+      <trans-unit id="Галерея" xml:space="preserve">
+        <source>Галерея</source>
+        <target>gallery</target>
+        <note>galery alert</note>
+      </trans-unit>
+      <trans-unit id="Дата" xml:space="preserve">
+        <source>Дата</source>
+        <target>Date</target>
+        <note>Save schedule name
+   Save task date</note>
+      </trans-unit>
+      <trans-unit id="Друг" xml:space="preserve">
+        <source>Друг</source>
+        <target>Friend</target>
+        <note>type contact alert</note>
+      </trans-unit>
+      <trans-unit id="Друзья" xml:space="preserve">
+        <source>Друзья</source>
+        <target>Friends</target>
+        <note>type contact alert</note>
+      </trans-unit>
+      <trans-unit id="Задание" xml:space="preserve">
+        <source>Задание</source>
+        <target>Task</target>
+        <note>Save task description
+   task alert</note>
+      </trans-unit>
+      <trans-unit id="Изменения сохранены" xml:space="preserve">
+        <source>Изменения сохранены</source>
+        <target>Changes saved</target>
+        <note>Changes saved</note>
+      </trans-unit>
+      <trans-unit id="Имя" xml:space="preserve">
+        <source>Имя</source>
+        <target>Name</target>
+        <note>name alert
+   Save contact name</note>
+      </trans-unit>
+      <trans-unit id="Камера" xml:space="preserve">
+        <source>Камера</source>
+        <target>Camera</target>
+        <note>camera alert</note>
+      </trans-unit>
+      <trans-unit id="Корпус" xml:space="preserve">
+        <source>Корпус</source>
+        <target>Building</target>
+        <note>building alert
+   Save schedule building</note>
+      </trans-unit>
+      <trans-unit id="Название" xml:space="preserve">
+        <source>Название</source>
+        <target>Name</target>
+        <note>name alert
+   Save schedule name
+   Save task name</note>
+      </trans-unit>
+      <trans-unit id="Открыть календарь" xml:space="preserve">
+        <source>Открыть календарь</source>
+        <target>Open calendar</target>
+        <note>open calendar</note>
+      </trans-unit>
+      <trans-unit id="Отмена" xml:space="preserve">
+        <source>Отмена</source>
+        <target>Cancel</target>
+        <note>cancel alert</note>
+      </trans-unit>
+      <trans-unit id="Почта" xml:space="preserve">
+        <source>Почта</source>
+        <target>Mail</target>
+        <note>mail alert
+   Save contact mail</note>
+      </trans-unit>
+      <trans-unit id="Преподаватели" xml:space="preserve">
+        <source>Преподаватели</source>
+        <target>Teachers</target>
+        <note>type contact alert</note>
+      </trans-unit>
+      <trans-unit id="Преподаватель" xml:space="preserve">
+        <source>Преподаватель</source>
+        <target>Teacher</target>
+        <note>type contact alert</note>
+      </trans-unit>
+      <trans-unit id="Редактирование" xml:space="preserve">
+        <source>Редактирование</source>
+        <target>Editing</target>
+        <note>editing title</note>
+      </trans-unit>
+      <trans-unit id="Скрыть календарь" xml:space="preserve">
+        <source>Скрыть календарь</source>
+        <target>Hide calendar</target>
+        <note>hide calendar</note>
+      </trans-unit>
+      <trans-unit id="Телефон" xml:space="preserve">
+        <source>Телефон</source>
+        <target>Phone</target>
+        <note>phone alert
+   Save contact phone</note>
+      </trans-unit>
+      <trans-unit id="Тип" xml:space="preserve">
+        <source>Тип</source>
+        <target>Type</target>
+        <note>Save schedule type</note>
+      </trans-unit>
+      <trans-unit id="Тип контакта" xml:space="preserve">
+        <source>Тип контакта</source>
+        <target>Contact type</target>
+        <note>Save type contact</note>
+      </trans-unit>
+      <trans-unit id="Тип предмета" xml:space="preserve">
+        <source>Тип предмета</source>
+        <target>Lesson type</target>
+        <note>type alert</note>
+      </trans-unit>
+      <trans-unit id="ФИО" xml:space="preserve">
+        <source>ФИО</source>
+        <target>Name</target>
+        <note>Save schedule name teacher</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

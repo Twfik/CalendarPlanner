@@ -1,0 +1,136 @@
+/* Aud
+   Aud alert */
+"Аудитория" = "Classroom";
+
+/* Enter aud alert */
+"Введите аудиторию" = "Enter classroom";
+
+/* Enter date and name alert */
+"Введите дату и название" = "Enter date and name";
+
+/* Enter date, time and name */
+"Введите дату, время и название" = "Enter date, time and name";
+
+/* Enter task alert */
+"Введите задание" = "Enter task";
+
+/* cancel alert
+   Enter task */
+"Введите задание \n\n\n\n\n" = "Enter task \n\n\n\n\n";
+
+/* Enter name alert */
+"Введите имя" = "Enter name";
+
+/* Enter name and type */
+"Введите имя и тип" = "Enter name and type";
+
+/* Enter build alert */
+"Введите корпус" = "Enter building ";
+
+/* Enter task name alert */
+"Введите название задания" = "Enter name";
+
+/* Enter lesson name alert */
+"Введите название предмета" = "Enter name";
+
+/* Enter email alert */
+"Введите почту" = "Enter mail";
+
+/* Enter phone alert */
+"Введите телефон" = "Enter phone";
+
+/* Enter type less alert */
+"Введите тип предмета" = "Enter type";
+
+/* Time */
+"Время" = "Time";
+
+/* choose alert */
+"Выбрать" = "Choose";
+
+/* galery alert */
+"Галерея" = "Gallery";
+
+/* Date
+   Save task date */
+"Дата" = "Date";
+
+/* type contact alert */
+"Друг" = "Friend";
+
+/* type contact alert */
+"Друзья" = "Friends";
+
+/* Save task description */
+"Задание" = "Task";
+
+/* Changes saved
+   Changes saved alert */
+"Изменения сохранены" = "Changes saved";
+
+/* Name
+   Name alert */
+"Имя" = "Name";
+
+/* camera alert */
+"Камера" = "Camera";
+
+/* Build
+   Building alert */
+"Корпус" = "Building";
+
+/* Name
+   Name alert
+   Save task name */
+"Название" = "Name";
+
+/* open calendar */
+"Открыть календарь" = "Open calendar";
+
+/* cancel alert */
+"Отмена" = "Cancel";
+
+/* Alert Error
+   Error alert */
+"Ошибка" = "Error";
+
+/* email alert
+   Mail */
+"Почта" = "Mail";
+
+/* Lesson add in schedule */
+"Предмет добавлен в расписание" = "Lesson add in schedule";
+
+/* type contact alert */
+"Преподаватели" = "Teachers";
+
+/* type contact alert */
+"Преподаватель" = "Teacher";
+
+/* editing title */
+"Редактирование" = "Editing";
+
+/* hide calendar */
+"Скрыть календарь" = "Hide calendar";
+
+/* Phone
+   Phone alert */
+"Телефон" = "Phone";
+
+/* Type */
+"Тип" = "Type";
+
+/* Type less alert */
+"Тип предмета" = "Lesson type";
+
+/* Delete cell */
+"Удалить" = "Delete";
+
+/* Success
+   Success alert
+   Sussess alert */
+"Успешно!" = "Success";
+
+/* Name */
+"ФИО" = "Name";
+

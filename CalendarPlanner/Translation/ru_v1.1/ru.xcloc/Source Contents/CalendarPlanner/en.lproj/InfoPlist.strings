@@ -1,0 +1,4 @@
+/* Bundle name */
+"CFBundleName" = "CalendarPlanner";
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "$(PRODUCT_NAME) photo use";

@@ -1,0 +1,237 @@
+/* Class = "UIButton"; normalTitle = "Открыть календарь"; ObjectID = "0oi-d9-p20"; */
+"0oi-d9-p20.normalTitle" = "Open calendar";
+
+/* Class = "UILabel"; text = "Аудитория"; ObjectID = "1yp-dm-afk"; */
+"1yp-dm-afk.text" = "Classroom";
+
+/* Class = "UILabel"; text = "Математика"; ObjectID = "3Ju-sD-D7p"; */
+"3Ju-sD-D7p.text" = "Математика";
+
+/* Class = "UITableViewSection"; headerTitle = "Название:"; ObjectID = "3Un-dE-mre"; */
+"3Un-dE-mre.headerTitle" = "Name:";
+
+/* Class = "UIButton"; normalTitle = "Открыть календарь"; ObjectID = "4IY-d7-zeN"; */
+"4IY-d7-zeN.normalTitle" = "Open calendar";
+
+/* Class = "UINavigationItem"; title = "Добавить контакт"; ObjectID = "4Py-vr-Qdy"; */
+"4Py-vr-Qdy.title" = "Add contact";
+
+/* Class = "UIBarButtonItem"; title = "Сохранить"; ObjectID = "6eB-Df-Kr2"; */
+"6eB-Df-Kr2.title" = "Save";
+
+/* Class = "UILabel"; text = "Название"; ObjectID = "6eK-ye-ZUG"; */
+"6eK-ye-ZUG.text" = "Name";
+
+/* Class = "UITableViewSection"; headerTitle = "Период"; ObjectID = "9gY-4N-nLz"; */
+"9gY-4N-nLz.headerTitle" = "Period";
+
+/* Class = "UILabel"; text = "ФИО"; ObjectID = "9TH-UA-rce"; */
+"9TH-UA-rce.text" = "Name";
+
+/* Class = "UINavigationItem"; title = "CalendarPlanner"; ObjectID = "74g-cF-fhp"; */
+"74g-cF-fhp.title" = "CalendarPlanner";
+
+/* Class = "UILabel"; text = "Тип контакта"; ObjectID = "91x-fB-X4F"; */
+"91x-fB-X4F.text" = "Type contact";
+
+/* Class = "UITableViewSection"; headerTitle = "Цвет"; ObjectID = "ar2-0V-ksS"; */
+"ar2-0V-ksS.headerTitle" = "Color";
+
+/* Class = "UINavigationItem"; title = "Преподаватель"; ObjectID = "AWm-Qg-sa4"; */
+"AWm-Qg-sa4.title" = "Teacher";
+
+/* Class = "UILabel"; text = "email@email.com"; ObjectID = "bDO-O0-nmn"; */
+"bDO-O0-nmn.text" = "email@email.com";
+
+/* Class = "UITableViewSection"; headerTitle = "Дата:"; ObjectID = "bMs-Pu-FMM"; */
+"bMs-Pu-FMM.headerTitle" = "Date:";
+
+/* Class = "UILabel"; text = "Tasks"; ObjectID = "bvy-uW-hBj"; */
+"bvy-uW-hBj.text" = "Tasks";
+
+/* Class = "UITableViewSection"; headerTitle = "Зеленый"; ObjectID = "CCe-Yl-UC8"; */
+"CCe-Yl-UC8.headerTitle" = "Green";
+
+/* Class = "UITableViewSection"; headerTitle = "Выбрать изображение:"; ObjectID = "Cwf-16-eQT"; */
+"Cwf-16-eQT.headerTitle" = "Choose image:";
+
+/* Class = "UITableViewSection"; headerTitle = "Голубой"; ObjectID = "dk5-53-Q8l"; */
+"dk5-53-Q8l.headerTitle" = "Blue";
+
+/* Class = "UITableViewSection"; headerTitle = "Фиолетовый"; ObjectID = "DWr-fw-Mby"; */
+"DWr-fw-Mby.headerTitle" = "Violet";
+
+/* Class = "UIBarButtonItem"; title = "Сохранить"; ObjectID = "Eoo-h0-aq1"; */
+"Eoo-h0-aq1.title" = "Save";
+
+/* Class = "UITabBarItem"; title = "Расписание"; ObjectID = "ES7-nH-owV"; */
+"ES7-nH-owV.title" = "Timetable";
+
+/* Class = "UITableViewSection"; headerTitle = "Красный"; ObjectID = "eSf-f1-BQQ"; */
+"eSf-f1-BQQ.headerTitle" = "Red";
+
+/* Class = "UILabel"; text = "Горбачев Сергей Викторович"; ObjectID = "f3R-mN-UVj"; */
+"f3R-mN-UVj.text" = "Горбачев Сергей Викторович";
+
+/* Class = "UITableViewSection"; headerTitle = "Белый"; ObjectID = "fNO-dw-csP"; */
+"fNO-dw-csP.headerTitle" = "White";
+
+/* Class = "UITableViewSection"; headerTitle = "Желтый"; ObjectID = "fsH-01-hBi"; */
+"fsH-01-hBi.headerTitle" = "Yellow";
+
+/* Class = "UITableViewSection"; headerTitle = "Цвет:"; ObjectID = "g1a-fB-6UJ"; */
+"g1a-fB-6UJ.headerTitle" = "Color:";
+
+/* Class = "UILabel"; text = "Дата"; ObjectID = "Gaa-bu-UEP"; */
+"Gaa-bu-UEP.text" = "Date";
+
+/* Class = "UILabel"; text = "Дата"; ObjectID = "ghF-Ks-aTN"; */
+"ghF-Ks-aTN.text" = "Date";
+
+/* Class = "UILabel"; text = "Почта"; ObjectID = "gZW-Zd-jGo"; */
+"gZW-Zd-jGo.text" = "Mail";
+
+/* Class = "UITableViewSection"; headerTitle = "Оранжевый"; ObjectID = "hGI-h9-9ha"; */
+"hGI-h9-9ha.headerTitle" = "Orange";
+
+/* Class = "UILabel"; text = "Homework"; ObjectID = "I5y-XC-xVR"; */
+"I5y-XC-xVR.text" = "Homework";
+
+/* Class = "UILabel"; text = "Название"; ObjectID = "ioB-Dt-x5s"; */
+"ioB-Dt-x5s.text" = "Name";
+
+/* Class = "UITableViewSection"; headerTitle = "Красный"; ObjectID = "IPe-rL-l7p"; */
+"IPe-rL-l7p.headerTitle" = "Red";
+
+/* Class = "UITableViewSection"; headerTitle = "Синий"; ObjectID = "iSD-Kp-oEh"; */
+"iSD-Kp-oEh.headerTitle" = "Deep blue";
+
+/* Class = "UILabel"; text = "Телефон"; ObjectID = "jhU-Uv-MVo"; */
+"jhU-Uv-MVo.text" = "Phone";
+
+/* Class = "UILabel"; text = "4-302"; ObjectID = "ju6-Tm-055"; */
+"ju6-Tm-055.text" = "4-302";
+
+/* Class = "UILabel"; text = "8-911-111-11-11"; ObjectID = "Lb1-Z9-wh3"; */
+"Lb1-Z9-wh3.text" = "8-911-111-11-11";
+
+/* Class = "UILabel"; text = "Имя"; ObjectID = "lVb-yt-nSt"; */
+"lVb-yt-nSt.text" = "Name";
+
+/* Class = "UITableViewSection"; headerTitle = "Почта"; ObjectID = "mMC-bc-eB4"; */
+"mMC-bc-eB4.headerTitle" = "Mail";
+
+/* Class = "UITableViewSection"; headerTitle = "Имя"; ObjectID = "MqS-4g-6pp"; */
+"MqS-4g-6pp.headerTitle" = "Name";
+
+/* Class = "UITableViewSection"; headerTitle = "Дата и время"; ObjectID = "Nlo-Ay-8xh"; */
+"Nlo-Ay-8xh.headerTitle" = "Date and Time";
+
+/* Class = "UILabel"; text = "Задание"; ObjectID = "nLo-zi-NnE"; */
+"nLo-zi-NnE.text" = "Task";
+
+/* Class = "UITableViewSection"; headerTitle = "Фиолетовый"; ObjectID = "oB8-sx-hlw"; */
+"oB8-sx-hlw.headerTitle" = "Violet";
+
+/* Class = "UITableViewSection"; headerTitle = "Оранжевый"; ObjectID = "OnJ-fZ-HYf"; */
+"OnJ-fZ-HYf.headerTitle" = "Orange";
+
+/* Class = "UILabel"; text = "email@email.com"; ObjectID = "op7-bG-H2U"; */
+"op7-bG-H2U.text" = "email@email.com";
+
+/* Class = "UITableViewSection"; headerTitle = "Задание:"; ObjectID = "p1U-Gn-k1o"; */
+"p1U-Gn-k1o.headerTitle" = "Task:";
+
+/* Class = "UITableViewSection"; headerTitle = "Белый"; ObjectID = "PB5-l3-aqX"; */
+"PB5-l3-aqX.headerTitle" = "White";
+
+/* Class = "UILabel"; text = "Петров Петр Петрович"; ObjectID = "pbs-YU-hJj"; */
+"pbs-YU-hJj.text" = "Петров Петр Петрович";
+
+/* Class = "UILabel"; text = "Корпус:"; ObjectID = "pI4-qN-t2h"; */
+"pI4-qN-t2h.text" = "Building:";
+
+/* Class = "UILabel"; text = "8:30"; ObjectID = "pnH-62-8zS"; */
+"pnH-62-8zS.text" = "8:30";
+
+/* Class = "UITableViewSection"; headerTitle = "Телефон"; ObjectID = "Pss-sv-nxi"; */
+"Pss-sv-nxi.headerTitle" = "Phone";
+
+/* Class = "UITabBarItem"; title = "Задания"; ObjectID = "PVY-eI-qze"; */
+"PVY-eI-qze.title" = "Tasks";
+
+/* Class = "UILabel"; text = "Петров Петр Петрович"; ObjectID = "pWb-tF-0HE"; */
+"pWb-tF-0HE.text" = "Петров Петр Петрович";
+
+/* Class = "UINavigationItem"; title = "Контакты"; ObjectID = "Q7W-no-dcH"; */
+"Q7W-no-dcH.title" = "Contacts";
+
+/* Class = "UIBarButtonItem"; title = "Сохранить"; ObjectID = "qba-Hy-upJ"; */
+"qba-Hy-upJ.title" = "Save";
+
+/* Class = "UITableViewSection"; headerTitle = "Зеленый"; ObjectID = "qt1-xk-UcB"; */
+"qt1-xk-UcB.headerTitle" = "Green";
+
+/* Class = "UILabel"; text = "8-911-111-11-11"; ObjectID = "RGG-Gm-gBn"; */
+"RGG-Gm-gBn.text" = "8-911-111-11-11";
+
+/* Class = "UINavigationItem"; title = "Новый предмет"; ObjectID = "roM-nV-9KD"; */
+"roM-nV-9KD.title" = "New lesson";
+
+/* Class = "UILabel"; text = "Тип"; ObjectID = "SgF-zN-TRm"; */
+"SgF-zN-TRm.text" = "Type";
+
+/* Class = "UITableViewSection"; headerTitle = "Желтый"; ObjectID = "Syd-by-KZG"; */
+"Syd-by-KZG.headerTitle" = "Yellow";
+
+/* Class = "UITabBarItem"; title = "Контакты"; ObjectID = "tfs-PV-JZA"; */
+"tfs-PV-JZA.title" = "Contacts";
+
+/* Class = "UILabel"; text = "Повторять каждые 7 дней"; ObjectID = "tYr-av-9d7"; */
+"tYr-av-9d7.text" = "Repeat every 7 days";
+
+/* Class = "UINavigationItem"; title = "Задания"; ObjectID = "UKi-1i-hYV"; */
+"UKi-1i-hYV.title" = "Tasks";
+
+/* Class = "UITableViewSection"; headerTitle = "Преподаватель"; ObjectID = "Uvf-ym-mxi"; */
+"Uvf-ym-mxi.headerTitle" = "Teacher";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "Vh5-cG-Xes"; */
+"Vh5-cG-Xes.text" = "4";
+
+/* Class = "UILabel"; text = "Корпус"; ObjectID = "wR3-5p-cpy"; */
+"wR3-5p-cpy.text" = "Building";
+
+/* Class = "UILabel"; text = "Лекция"; ObjectID = "Xfv-ea-z6b"; */
+"Xfv-ea-z6b.text" = "Лекция";
+
+/* Class = "UITableViewSection"; headerTitle = "Голубой"; ObjectID = "Xs9-8V-IcP"; */
+"Xs9-8V-IcP.headerTitle" = "Blue";
+
+/* Class = "UISegmentedControl"; xUu-YU-Dfn.segmentTitles[0] = "Друзья"; ObjectID = "xUu-YU-Dfn"; */
+"xUu-YU-Dfn.segmentTitles[0]" = "Friends";
+
+/* Class = "UISegmentedControl"; xUu-YU-Dfn.segmentTitles[1] = "Преподаватели"; ObjectID = "xUu-YU-Dfn"; */
+"xUu-YU-Dfn.segmentTitles[1]" = "Teachers";
+
+/* Class = "UILabel"; text = "Время"; ObjectID = "Xv1-kP-9Nh"; */
+"Xv1-kP-9Nh.text" = "Time";
+
+/* Class = "UINavigationItem"; title = "Новое задание"; ObjectID = "y6d-eL-Ak2"; */
+"y6d-eL-Ak2.title" = "New task";
+
+/* Class = "UILabel"; text = "Тип:"; ObjectID = "yk2-el-pNT"; */
+"yk2-el-pNT.text" = "Type:";
+
+/* Class = "UITableViewSection"; headerTitle = "Тип"; ObjectID = "yOP-31-avU"; */
+"yOP-31-avU.headerTitle" = "Type";
+
+/* Class = "UILabel"; text = "Аудитория:"; ObjectID = "ZKK-BC-LEd"; */
+"ZKK-BC-LEd.text" = "Classroom:";
+
+/* Class = "UITableViewSection"; headerTitle = "Синий"; ObjectID = "zur-7S-TnW"; */
+"zur-7S-TnW.headerTitle" = "Deep blue";
+
+/* Class = "UITableViewSection"; headerTitle = "Предмет"; ObjectID = "zZQ-Ex-J9s"; */
+"zZQ-Ex-J9s.headerTitle" = "Lesson";
+
